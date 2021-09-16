@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Zachary Pompa [@BustaChimes]
-## I’m interested in: Learning how to pen test and working on side project with classmates
-## I’m and OU CS student that will be graduate in May of '22
+## I’m interested in learning to further my coding and critical thinking skills. I'd also like to learn pen testing and work with you on your projects!
+## I’m and OU CS student that will be graduating in May of '22
 
 ### How to reach me: git@bustachimes.com
 
