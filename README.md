@@ -1,8 +1,8 @@
-##👋 Hi, I’m Zachary Pompa [@BustaChimes]
-##I’m interested in: Learning how to pen test and working on side project with classmates
-##I’m and OU CS student that will be graduate in May of '22
+## 👋 Hi, I’m Zachary Pompa [@BustaChimes]
+## I’m interested in: Learning how to pen test and working on side project with classmates
+## I’m and OU CS student that will be graduate in May of '22
 
-###How to reach me: git@bustachimes.com
+### How to reach me: git@bustachimes.com
 
 Computer Science Classes I completed at university
   *	Intro to Programming (Python)
