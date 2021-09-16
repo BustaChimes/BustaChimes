@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Zachary Pompa [@BustaChimes]
-## I'm in school right now to better myself and lay the ground work to build a better future for my self and hopefully future family. I went back to school in 2017 and obtained a degree in Computer Information Systems A.S. from Tulsa Community College. I then moved on to pursing my next degree at the University of Oklahoma in Computer Science. With in the next year I will be graduating and be looking ahead to my next goals.
+#### I'm in school right now to better myself and lay the ground work to build a better future for my self and hopefully future family. I went back to school in 2017 and obtained a degree in Computer Information Systems A.S. from Tulsa Community College. I then moved on to pursing my next degree at the University of Oklahoma in Computer Science. With in the next year I will be graduating and be looking ahead to my next goals.
 
-## I’m interested in learning to further my coding and critical thinking skills. I'd also like to learn pen testing and work with you on your projects!
+#### I’m interested in learning to further my coding and critical thinking skills. I'd also like to learn pen testing and work with you on your projects!
 ## I’m and OU CS student that will be graduating in May of '22
 
 ### How to reach me: git@bustachimes.com (professional emails only please)
