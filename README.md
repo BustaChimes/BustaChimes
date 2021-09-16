@@ -18,7 +18,7 @@ Computer Science Classes I completed at university
   *	Software Engineering I
   *	Principles of Programing Languages
   *	Human Computer Interaction
-  *	Capstone Design Project
+  *	Capstone Design Project (Project Manager)
  
 Currently Enrolled Computer Science Classes
   * Theory of Computation
